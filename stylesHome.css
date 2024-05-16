@@ -293,6 +293,8 @@ img.footer {
     }
     div.cards {
         flex-direction: column;
+        align-items: center;
+        justify-content: center;
     }
     img.bolaOuro {
         width: 20%;
@@ -301,7 +303,7 @@ img.footer {
         width: 30%;
     }
     div.conteudo {
-        margin: 2%;
+        margin: 4%;
     }
 }
 

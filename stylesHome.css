@@ -300,10 +300,16 @@ img.footer {
         width: 20%;
     }
     img.footer {
-        width: 30%;
+        width: 40%;
     }
     div.conteudo {
         margin: 4%;
+    }
+    a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
     }
 }
 

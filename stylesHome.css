@@ -270,3 +270,29 @@ img.footer {
     background-color: white;
     color: black;
 }
+
+@media screen and (max-width: 1110px) {
+    
+}
+
+@media screen and (max-width: 910px) {
+    h1 {
+        font-size: 60px;
+    }
+    p {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    h1 {
+        font-size: 50px;
+    }
+    p {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    
+}

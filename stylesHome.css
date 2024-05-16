@@ -306,10 +306,7 @@ img.footer {
         margin: 4%;
     }
     a {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-
+        display: contents;
     }
 }
 

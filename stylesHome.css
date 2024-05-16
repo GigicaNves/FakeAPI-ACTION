@@ -291,6 +291,9 @@ img.footer {
     p {
         font-size: 20px;
     }
+    div.cards {
+        flex-direction: column;
+    }
 }
 
 @media screen and (max-width: 510px) {

@@ -271,10 +271,6 @@ img.footer {
     color: black;
 }
 
-@media screen and (max-width: 1110px) {
-    
-}
-
 @media screen and (max-width: 910px) {
     h1 {
         font-size: 60px;
@@ -308,8 +304,4 @@ img.footer {
     a {
         display: contents;
     }
-}
-
-@media screen and (max-width: 510px) {
-    
 }

@@ -294,6 +294,12 @@ img.footer {
     div.cards {
         flex-direction: column;
     }
+    img.bolaOuro {
+        width: 20%;
+    }
+    img.footer {
+        width: 25%;
+    }
 }
 
 @media screen and (max-width: 510px) {

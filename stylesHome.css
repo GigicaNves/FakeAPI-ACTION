@@ -24,10 +24,16 @@ nav.navbar {
     border-bottom: solid 2px white;
 }
 
+div.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 1%;
+}
 
 img.bolaOuro {
     width: 10%;
-    padding: 10px;
 }
 
 div.conteudo {
@@ -48,6 +54,12 @@ h1 {
     font-size: 60px;
     color: white;
     text-align: center;
+}
+
+h1.nav {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-size: 20px;
 }
 
 h2 {
